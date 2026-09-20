@@ -1,0 +1,10 @@
+{
+  "name": "Estilo 28",
+  "short_name": "Estilo 28",
+  "start_url": "/Estilo-28-/",
+  "scope": "/Estilo-28-/",
+  "display": "standalone",
+  "background_color": "#080808",
+  "theme_color": "#0b0b0b",
+  "description": "Administración de tienda Estilo 28"
+}
